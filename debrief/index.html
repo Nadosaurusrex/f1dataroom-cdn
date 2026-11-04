@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Debrief telemetria · F1 Data Room</title>
+<meta name="description" content="Mandaci un tuo giro: ti diciamo curva per curva dove perdi tempo. ACC, EA F1 25 e altri sim.">
+<meta property="og:title" content="Il tuo giro contro un giro vero di F1">
+<meta property="og:description" content="Debrief telemetria curva per curva, con grafici e Reel. Da 15 euro.">
+<meta property="og:image" content="https://nadosaurusrex.github.io/f1dataroom-cdn/debrief/sample-trace.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600;900&display=swap" rel="stylesheet">
+<style>
+  :root { --bg:#111214; --panel:#17191C; --grid:#2A2D31; --lime:#D4F33A; --text:#EDEFF2; --muted:#8A9099; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--text); font-family:"Titillium Web",system-ui,sans-serif; font-size:18px; line-height:1.5; }
+  main { max-width:760px; margin:0 auto; padding:32px 16px 64px; }
+  h1 { font-weight:900; font-size:clamp(34px,8vw,52px); line-height:1.05; text-transform:uppercase; color:var(--lime); margin:8px 0 16px; }
+  h2 { font-weight:900; text-transform:uppercase; color:var(--lime); font-size:24px; margin:48px 0 12px; }
+  .kicker { display:inline-block; background:var(--lime); color:var(--bg); font-weight:900; padding:2px 10px; text-transform:uppercase; font-size:14px; }
+  p.lead { font-size:21px; color:var(--text); }
+  .muted { color:var(--muted); }
+  img, video { width:100%; display:block; border:1px solid var(--grid); }
+  .grid2 { display:grid; grid-template-columns:1fr 1fr; gap:12px; }
+  @media (max-width:560px) { .grid2 { grid-template-columns:1fr; } }
+  ul { padding-left:20px; } li { margin:6px 0; }
+  .plans { display:grid; grid-template-columns:repeat(3,1fr); gap:12px; }
+  @media (max-width:640px) { .plans { grid-template-columns:1fr; } }
+  .plan { background:var(--panel); border:1px solid var(--grid); padding:16px; }
+  .plan b { display:block; text-transform:uppercase; font-weight:900; }
+  .price { font-size:34px; font-weight:900; color:var(--lime); }
+  .cta { display:inline-block; background:var(--lime); color:var(--bg); font-weight:900; text-transform:uppercase; padding:14px 22px; text-decoration:none; margin-top:8px; }
+  code { background:var(--panel); padding:1px 6px; border:1px solid var(--grid); }
+  ol li { margin:10px 0; }
+  footer { margin-top:56px; padding-top:16px; border-top:1px solid var(--grid); color:var(--muted); font-size:15px; }
+  a { color:var(--lime); }
+</style>
+</head>
+<body>
+<main>
+  <span class="kicker">Debrief telemetria</span>
+  <h1>Dove perdi tempo, curva per curva</h1>
+  <p class="lead">Mandaci un tuo giro e un giro di riferimento. Ti rimandiamo grafici, un Reel e un debrief scritto: in quale curva perdi più tempo, quanti metri prima freni, che velocità minima porti, quando torni sul gas. E cosa provare al prossimo stint.</p>
+  <p class="muted">Funziona con Assetto Corsa Competizione (export MoTeC) e con EA SPORTS F1 23/24/25. Con il gioco F1 puoi sfidare un giro vero: per esempio la pole di Monza 2025.</p>
+
+  <video src="sample.mp4" controls playsinline muted poster="sample-trace.jpg"></video>
+  <p class="muted">Esempio, con giri dimostrativi.</p>
+
+  <div class="grid2">
+    <img src="sample-trace.jpg" alt="Velocità sul giro e distacco accumulato rispetto al riferimento">
+    <img src="sample-table.jpg" alt="Le tre curve da sistemare: tempo perso, frenata, velocità minima, gas pieno">
+  </div>
+
+  <h2>Prezzi</h2>
+  <div class="plans">
+    <div class="plan"><b>Singolo</b><div class="price">€15</div>Un giro contro un riferimento.</div>
+    <div class="plan"><b>Pacchetto 3</b><div class="price">€35</div>Tre debrief: prima, durante e dopo una settimana di prove.</div>
+    <div class="plan"><b>Coaching</b><div class="price">€30<small>/mese</small></div>Due debrief al mese e il confronto dei progressi.</div>
+  </div>
+  <p>I primi 5 debrief sono gratis, in cambio del permesso di pubblicarli.</p>
+  <a class="cta" href="https://ig.me/m/f1dataroom">Ordina in DM su Instagram</a>
+  <p class="muted">Scrivici "debrief", il gioco, la pista e la macchina. Ti rispondiamo con come mandare i file e come pagare.</p>
+
+  <h2>Come registrare il giro</h2>
+  <p><b>EA SPORTS F1 23 / 24 / 25</b></p>
+  <ol>
+    <li>Nel gioco: Impostazioni → Telemetria → Telemetria UDP: <b>On</b>, porta <code>20777</code>, frequenza 60 Hz, IP <code>127.0.0.1</code> (o l'IP del PC se giochi su console).</li>
+    <li>Scarica <a href="f1_game_recorder.py" download>f1_game_recorder.py</a> e avvialo con Python 3: <code>python f1_game_recorder.py</code>. Non serve altro.</li>
+    <li>Guida. Ogni giro completo viene salvato nella cartella <code>laps</code>. Mandaci il migliore.</li>
+  </ol>
+  <p><b>Assetto Corsa Competizione</b></p>
+  <ol>
+    <li>Attiva il logging MoTeC di ACC e apri il giro in MoTeC i2.</li>
+    <li>File → Export → CSV, con Time, Distance, Speed, Throttle Pos e Brake Pos.</li>
+    <li>Mandaci il tuo giro e quello di riferimento (un compagno più veloce, o un giro alieno).</li>
+  </ol>
+
+  <footer>F1 Data Room · <a href="https://instagram.com/f1dataroom">@f1dataroom</a> · I dati del tuo giro servono solo a fare il debrief. I giri reali di F1 vengono da OpenF1.</footer>
+</main>
+</body>
+</html>

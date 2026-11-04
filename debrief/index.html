@@ -7,7 +7,7 @@
 <meta name="description" content="Mandaci un tuo giro: ti diciamo curva per curva dove perdi tempo. ACC, EA F1 25 e altri sim.">
 <meta property="og:title" content="Il tuo giro contro un giro vero di F1">
 <meta property="og:description" content="Debrief telemetria curva per curva, con grafici e Reel. Da 15 euro.">
-<meta property="og:image" content="https://nadosaurusrex.github.io/f1dataroom-cdn/debrief/sample-trace.jpg">
+<meta property="og:image" content="https://nadosaurusrex.github.io/f1dataroom-cdn/debrief/monza-02.jpg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600;900&display=swap" rel="stylesheet">
 <style>
@@ -43,12 +43,12 @@
   <p class="lead">Mandaci un tuo giro e un giro di riferimento. Ti rimandiamo grafici, un Reel e un debrief scritto: in quale curva perdi più tempo, quanti metri prima freni, che velocità minima porti, quando torni sul gas. E cosa provare al prossimo stint.</p>
   <p class="muted">Funziona con Assetto Corsa Competizione (export MoTeC) e con EA SPORTS F1 23/24/25. Con il gioco F1 puoi sfidare un giro vero: per esempio la pole di Monza 2025.</p>
 
-  <video src="sample.mp4" controls playsinline muted poster="sample-trace.jpg"></video>
-  <p class="muted">Esempio, con giri dimostrativi.</p>
-
+  <h2>Esempio: un giro a Monza contro Verstappen</h2>
+  <p>Il riferimento è il giro vero di Verstappen in qualifica a Monza 2025, dalla telemetria pubblica OpenF1. Il giro "demo" è costruito da noi per l'esempio: frena prima e passa più lento in ogni curva.</p>
+  <video src="monza.mp4" controls playsinline muted poster="monza-01.jpg"></video>
   <div class="grid2">
-    <img src="sample-trace.jpg" alt="Velocità sul giro e distacco accumulato rispetto al riferimento">
-    <img src="sample-table.jpg" alt="Le tre curve da sistemare: tempo perso, frenata, velocità minima, gas pieno">
+    <img src="monza-02.jpg" alt="Monza: velocità sul giro e distacco accumulato rispetto a Verstappen">
+    <img src="monza-04.jpg" alt="Monza: le tre curve da sistemare">
   </div>
 
   <h2>Prezzi</h2>
@@ -59,20 +59,20 @@
   </div>
   <p>I primi 5 debrief sono gratis, in cambio del permesso di pubblicarli.</p>
   <a class="cta" href="https://ig.me/m/f1dataroom">Ordina in DM su Instagram</a>
-  <p class="muted">Scrivici "debrief", il gioco, la pista e la macchina. Ti rispondiamo con come mandare i file e come pagare.</p>
+  <p class="muted">Scrivici "debrief", il gioco, la pista e la macchina. Il file del giro lo mandi come link (Google Drive, Dropbox o OneDrive, condiviso con "chiunque abbia il link"). Ti rispondiamo con come pagare e di solito il debrief arriva entro 24 ore.</p>
 
   <h2>Come registrare il giro</h2>
   <p><b>EA SPORTS F1 23 / 24 / 25</b></p>
   <ol>
     <li>Nel gioco: Impostazioni → Telemetria → Telemetria UDP: <b>On</b>, porta <code>20777</code>, frequenza 60 Hz, IP <code>127.0.0.1</code> (o l'IP del PC se giochi su console).</li>
     <li>Scarica <a href="f1_game_recorder.py" download>f1_game_recorder.py</a> e avvialo con Python 3: <code>python f1_game_recorder.py</code>. Non serve altro.</li>
-    <li>Guida. Ogni giro completo viene salvato nella cartella <code>laps</code>. Mandaci il migliore.</li>
+    <li>Guida. Ogni giro completo viene salvato nella cartella <code>laps</code>. Caricalo su Google Drive o Dropbox e mandaci il link.</li>
   </ol>
   <p><b>Assetto Corsa Competizione</b></p>
   <ol>
     <li>Attiva il logging MoTeC di ACC e apri il giro in MoTeC i2.</li>
     <li>File → Export → CSV, con Time, Distance, Speed, Throttle Pos e Brake Pos.</li>
-    <li>Mandaci il tuo giro e quello di riferimento (un compagno più veloce, o un giro alieno).</li>
+    <li>Mandaci il link al tuo giro e a quello di riferimento (un compagno più veloce, o un giro alieno).</li>
   </ol>
 
   <footer>F1 Data Room · <a href="https://instagram.com/f1dataroom">@f1dataroom</a> · I dati del tuo giro servono solo a fare il debrief. I giri reali di F1 vengono da OpenF1.</footer>

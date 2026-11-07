@@ -1,0 +1,33 @@
+{
+  "post_key": "2025-r21-qualifying-sample",
+  "language": "it",
+  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/samples/quali/interlagos-2025-pole-vs-p2.mp4",
+  "max_duration_s": 20,
+  "script": [
+    {
+      "start_s": 0.0,
+      "text": "Norris in pole per 0,174 s su Antonelli.",
+      "say": "Norris in pole per centosettantaquattro millesimi su Antonelli."
+    },
+    {
+      "start_s": 4.0,
+      "text": "Decide il settore 3: Norris guadagna 0,097 s.",
+      "say": "Decide il settore tre: Norris guadagna novantasette millesimi."
+    },
+    {
+      "start_s": 9.0,
+      "text": "Nel punto più lento Norris tiene 5 km/h in più.",
+      "say": "Nel punto più lento Norris tiene cinque chilometri orari in più."
+    },
+    {
+      "start_s": 14.0,
+      "text": "Salva i tre settori. Chi vince domani?",
+      "say": "Salva i tre settori. Chi vince domani?"
+    },
+    {
+      "start_s": 17.0,
+      "text": "Segui per ogni gara in dati.",
+      "say": "Segui per ogni gara in dati."
+    }
+  ]
+}

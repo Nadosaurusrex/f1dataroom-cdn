@@ -1,0 +1,33 @@
+{
+  "post_key": "2026-r20-qualifying-result",
+  "language": "it",
+  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/media/2026/2026-r20-qualifying-result/reel-silent.mp4",
+  "max_duration_s": 20,
+  "script": [
+    {
+      "start_s": 0.0,
+      "text": "Norris in pole per 0,204 s su Russell.",
+      "say": "Norris in pole per duecentoquattro millesimi su Russell."
+    },
+    {
+      "start_s": 4.0,
+      "text": "Decide il settore 1: Norris guadagna 0,268 s.",
+      "say": "Decide il settore uno: Norris guadagna duecentosessantotto millesimi."
+    },
+    {
+      "start_s": 9.0,
+      "text": "Russell è più veloce nel settore 3. Non basta.",
+      "say": "Russell è più veloce nel settore tre. Non basta."
+    },
+    {
+      "start_s": 14.0,
+      "text": "Salva i tre settori. Chi vince oggi?",
+      "say": "Salva i tre settori. Chi vince oggi?"
+    },
+    {
+      "start_s": 17.0,
+      "text": "Segui per ogni gara in dati.",
+      "say": "Segui per ogni gara in dati."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "post_key": "2026-r20-race-preview",
+  "language": "it",
+  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/media/2026/2026-r20-race-preview/reel-silent.mp4",
+  "max_duration_s": 22.0,
+  "script": [
+    {
+      "start_s": 0.0,
+      "text": "Mercedes: bastano 3 punti sulla Ferrari.",
+      "say": "Mercedes: bastano tre punti sulla Ferrari."
+    },
+    {
+      "start_s": 3.0,
+      "text": "Altri in ordine: una Ferrari 2ª, o Leclerc 3° e Hamilton 8°.",
+      "say": "Altri in ordine: una Ferrari seconda, o Leclerc terzo e Hamilton ottavo."
+    },
+    {
+      "start_s": 8.75,
+      "text": "In prova, 0,88 s a giro sul gruppo.",
+      "say": "In prova, nove decimi sul gruppo."
+    },
+    {
+      "start_s": 12.05,
+      "text": "Da dietro, metà arriva nei primi 5.",
+      "say": "Da dietro, metà arriva nei primi cinque."
+    },
+    {
+      "start_s": 16.05,
+      "text": "Verstappen l'anno scorso: da 19° a 3°.",
+      "say": "Verstappen l'anno scorso: da diciannovesimo a terzo."
+    },
+    {
+      "start_s": 19.5,
+      "text": "Mercedes campione? Sì o no?",
+      "say": "Mercedes campione? Sì o no?"
+    }
+  ]
+}

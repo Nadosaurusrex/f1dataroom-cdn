@@ -1,38 +1,38 @@
 {
-  "post_key": "2026-r20-race-result",
+  "post_key": "evergreen-2026-11-10",
   "language": "it",
-  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/media/2026/2026-r20-race-result/reel-silent.mp4",
-  "max_duration_s": 21,
+  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/media/2026/evergreen-2026-11-10/reel-silent.mp4",
+  "max_duration_s": 20,
   "script": [
     {
       "start_s": 0.0,
-      "text": "Verstappen: da P21 a P2.",
-      "say": "Verstappen: da ventunesimo a secondo."
+      "text": "Antonelli: da P1 a P4 in 5 giri.",
+      "say": "Antonelli: da primo a quarto in cinque giri."
     },
     {
-      "start_s": 2.7,
-      "text": "8 posti già al primo giro.",
-      "say": "Otto posti già al primo giro."
+      "start_s": 3.8,
+      "text": "Giro 20: limiti in curva 1, giro cancellato.",
+      "say": "Giro venti: limiti in curva uno, giro cancellato."
     },
     {
-      "start_s": 5.6,
-      "text": "Giro 11: P5.",
-      "say": "Giro undici: quinto."
+      "start_s": 7.6,
+      "text": "Giro 24: di nuovo. Passa VER.",
+      "say": "Giro ventiquattro: di nuovo. Passa Verstappen."
     },
     {
-      "start_s": 8.6,
-      "text": "Passa ANT e HAD: P2.",
-      "say": "Passa Antonelli e Hadjar: secondo."
+      "start_s": 10.5,
+      "text": "Sullo stint di soft, stesso passo di NOR.",
+      "say": "Sullo stint di soft, stesso passo di Norris."
     },
     {
-      "start_s": 11.5,
-      "text": "Undercut: NOR a 6,3 s.",
-      "say": "Undercut: Norris a sei e tre secondi."
+      "start_s": 14.2,
+      "text": "2 giri: 8,6 s.",
+      "say": "Due giri: otto e sei secondi."
     },
     {
-      "start_s": 15.0,
-      "text": "Rimonta dell'anno: sì o no? Segui per ogni gara in dati.",
-      "say": "Rimonta dell'anno: sì o no? Segui per ogni gara in dati."
+      "start_s": 17.0,
+      "text": "Senza quei 2 giri, vinceva?",
+      "say": "Senza quei due giri, vinceva?"
     }
   ]
 }

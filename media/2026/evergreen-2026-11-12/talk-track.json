@@ -1,0 +1,43 @@
+{
+  "post_key": "evergreen-2026-11-12",
+  "language": "it",
+  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/media/2026/evergreen-2026-11-12/reel-silent.mp4",
+  "max_duration_s": 20,
+  "script": [
+    {
+      "start_s": 0.0,
+      "text": "Verstappen secondo: 17 punti di vantaggio.",
+      "say": "Verstappen secondo: diciassette punti di vantaggio."
+    },
+    {
+      "start_s": 3.2,
+      "text": "Dopo Baku era P6.",
+      "say": "Dopo Baku era sesto."
+    },
+    {
+      "start_s": 5.2,
+      "text": "Poi 116 punti in 5 gare.",
+      "say": "Poi centosedici punti in cinque gare."
+    },
+    {
+      "start_s": 8.1,
+      "text": "5 piloti in 33 punti.",
+      "say": "Cinque piloti in trentatré punti."
+    },
+    {
+      "start_s": 10.4,
+      "text": "Perché: il passo. VER il più veloce.",
+      "say": "Perché: il passo. Verstappen il più veloce."
+    },
+    {
+      "start_s": 13.6,
+      "text": "RUS: servono 5,7 punti in più a gara.",
+      "say": "Russell: servono cinque e sette punti in più a gara."
+    },
+    {
+      "start_s": 18.3,
+      "text": "Chi chiude secondo?",
+      "say": "Chi chiude secondo?"
+    }
+  ]
+}

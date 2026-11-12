@@ -1,38 +1,43 @@
 {
-  "post_key": "evergreen-2026-11-10",
+  "post_key": "evergreen-2026-11-12",
   "language": "it",
-  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/media/2026/evergreen-2026-11-10/reel-silent.mp4",
+  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/media/2026/evergreen-2026-11-12/reel-silent.mp4",
   "max_duration_s": 20,
   "script": [
     {
       "start_s": 0.0,
-      "text": "Antonelli: da P1 a P4 in 5 giri.",
-      "say": "Antonelli: da primo a quarto in cinque giri."
+      "text": "Verstappen secondo: 17 punti di vantaggio.",
+      "say": "Verstappen secondo: diciassette punti di vantaggio."
     },
     {
-      "start_s": 3.8,
-      "text": "Giro 20: limiti in curva 1, giro cancellato.",
-      "say": "Giro venti: limiti in curva uno, giro cancellato."
+      "start_s": 3.2,
+      "text": "Dopo Baku era P6.",
+      "say": "Dopo Baku era sesto."
     },
     {
-      "start_s": 7.6,
-      "text": "Giro 24: di nuovo. Passa VER.",
-      "say": "Giro ventiquattro: di nuovo. Passa Verstappen."
+      "start_s": 5.2,
+      "text": "Poi 116 punti in 5 gare.",
+      "say": "Poi centosedici punti in cinque gare."
     },
     {
-      "start_s": 10.5,
-      "text": "Sullo stint di soft, stesso passo di NOR.",
-      "say": "Sullo stint di soft, stesso passo di Norris."
+      "start_s": 8.1,
+      "text": "5 piloti in 33 punti.",
+      "say": "Cinque piloti in trentatré punti."
     },
     {
-      "start_s": 14.2,
-      "text": "2 giri: 8,6 s.",
-      "say": "Due giri: otto e sei secondi."
+      "start_s": 10.4,
+      "text": "Perché: il passo. VER il più veloce.",
+      "say": "Perché: il passo. Verstappen il più veloce."
     },
     {
-      "start_s": 17.0,
-      "text": "Senza quei 2 giri, vinceva?",
-      "say": "Senza quei due giri, vinceva?"
+      "start_s": 13.6,
+      "text": "RUS: servono 5,7 punti in più a gara.",
+      "say": "Russell: servono cinque e sette punti in più a gara."
+    },
+    {
+      "start_s": 18.3,
+      "text": "Chi chiude secondo?",
+      "say": "Chi chiude secondo?"
     }
   ]
 }

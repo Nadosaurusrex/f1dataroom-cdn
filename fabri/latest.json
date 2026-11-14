@@ -1,43 +1,33 @@
 {
-  "post_key": "evergreen-2026-11-12",
+  "post_key": "evergreen-2026-11-14",
   "language": "it",
-  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/media/2026/evergreen-2026-11-12/reel-silent.mp4",
-  "max_duration_s": 20,
+  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/media/2026/evergreen-2026-11-14/reel.mp4",
+  "max_duration_s": 19,
   "script": [
     {
       "start_s": 0.0,
-      "text": "Verstappen secondo: 17 punti di vantaggio.",
-      "say": "Verstappen secondo: diciassette punti di vantaggio."
+      "text": "Hamilton: da P20 a P9 al primo giro.",
+      "say": "Hamilton: da ventesimo a nono al primo giro."
     },
     {
-      "start_s": 3.2,
-      "text": "Dopo Baku era P6.",
-      "say": "Dopo Baku era sesto."
+      "start_s": 3.7,
+      "text": "Slick al giro 14: P11.",
+      "say": "Slick al giro quattordici: undicesimo."
     },
     {
-      "start_s": 5.2,
-      "text": "Poi 116 punti in 5 gare.",
-      "say": "Poi centosedici punti in cinque gare."
+      "start_s": 6.1,
+      "text": "Giro 61: P7. Poi la pioggia.",
+      "say": "Giro sessantuno: settimo. Poi la pioggia."
     },
     {
-      "start_s": 8.1,
-      "text": "5 piloti in 33 punti.",
-      "say": "Cinque piloti in trentatré punti."
+      "start_s": 8.9,
+      "text": "29,1 s persi in un giro: P9.",
+      "say": "Ventinove secondi persi in un giro: nono."
     },
     {
-      "start_s": 10.4,
-      "text": "Perché: il passo. VER il più veloce.",
-      "say": "Perché: il passo. Verstappen il più veloce."
-    },
-    {
-      "start_s": 13.6,
-      "text": "RUS: servono 5,7 punti in più a gara.",
-      "say": "Russell: servono cinque e sette punti in più a gara."
-    },
-    {
-      "start_s": 18.3,
-      "text": "Chi chiude secondo?",
-      "say": "Chi chiude secondo?"
+      "start_s": 12.3,
+      "text": "Fermarlo prima? Segui per ogni gara in dati.",
+      "say": "Fermarlo prima? Segui per ogni gara in dati."
     }
   ]
 }

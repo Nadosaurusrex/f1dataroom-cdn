@@ -1,0 +1,33 @@
+{
+  "post_key": "evergreen-2026-11-14",
+  "language": "it",
+  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/media/2026/evergreen-2026-11-14/reel.mp4",
+  "max_duration_s": 19,
+  "script": [
+    {
+      "start_s": 0.0,
+      "text": "Hamilton: da P20 a P9 al primo giro.",
+      "say": "Hamilton: da ventesimo a nono al primo giro."
+    },
+    {
+      "start_s": 3.7,
+      "text": "Slick al giro 14: P11.",
+      "say": "Slick al giro quattordici: undicesimo."
+    },
+    {
+      "start_s": 6.1,
+      "text": "Giro 61: P7. Poi la pioggia.",
+      "say": "Giro sessantuno: settimo. Poi la pioggia."
+    },
+    {
+      "start_s": 8.9,
+      "text": "29,1 s persi in un giro: P9.",
+      "say": "Ventinove secondi persi in un giro: nono."
+    },
+    {
+      "start_s": 12.3,
+      "text": "Fermarlo prima? Segui per ogni gara in dati.",
+      "say": "Fermarlo prima? Segui per ogni gara in dati."
+    }
+  ]
+}

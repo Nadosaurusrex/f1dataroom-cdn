@@ -1,33 +1,38 @@
 {
-  "post_key": "evergreen-2026-11-14",
+  "post_key": "2026-r21-practice-2-result",
   "language": "it",
-  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/media/2026/evergreen-2026-11-14/reel.mp4",
-  "max_duration_s": 19,
+  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/media/2026/2026-r21-practice-2-result/reel.mp4",
+  "max_duration_s": 20,
   "script": [
     {
       "start_s": 0.0,
-      "text": "Hamilton: da P20 a P9 al primo giro.",
-      "say": "Hamilton: da ventesimo a nono al primo giro."
+      "text": "Russell P1 per 0,333 s.",
+      "say": "Russell è primo per zero e trecentotrentatré."
     },
     {
-      "start_s": 3.7,
-      "text": "Slick al giro 14: P11.",
-      "say": "Slick al giro quattordici: undicesimo."
+      "start_s": 3.2,
+      "text": "LEC ha girato prima della bandiera rossa.",
+      "say": "Leclerc gira prima della bandiera rossa."
     },
     {
       "start_s": 6.1,
-      "text": "Giro 61: P7. Poi la pioggia.",
-      "say": "Giro sessantuno: settimo. Poi la pioggia."
+      "text": "Stima: a parità di pista, LEC davanti.",
+      "say": "Secondo la stima, Leclerc è davanti."
     },
     {
-      "start_s": 8.9,
-      "text": "29,1 s persi in un giro: P9.",
-      "say": "Ventinove secondi persi in un giro: nono."
+      "start_s": 9.0,
+      "text": "Stessi piloti, stesse gomme: mediana 1,085 s.",
+      "say": "Stessi piloti, stesse gomme: pista più veloce."
     },
     {
-      "start_s": 12.3,
-      "text": "Fermarlo prima? Segui per ogni gara in dati.",
-      "say": "Fermarlo prima? Segui per ogni gara in dati."
+      "start_s": 12.4,
+      "text": "Ma il giro veloce finale di LEC è cancellato.",
+      "say": "Ma il giro finale è cancellato."
+    },
+    {
+      "start_s": 15.3,
+      "text": "Chi è davanti? Segui per ogni gara in dati.",
+      "say": "Chi è davanti? Segui per ogni gara in dati."
     }
   ]
 }

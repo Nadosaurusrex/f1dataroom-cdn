@@ -1,0 +1,38 @@
+{
+  "post_key": "2026-r21-qualifying-result",
+  "language": "it",
+  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/media/2026/2026-r21-qualifying-result/reel.mp4",
+  "max_duration_s": 20,
+  "script": [
+    {
+      "start_s": 0.0,
+      "text": "Antonelli: dietro di 0,650 s, poi il più veloce.",
+      "say": "Antonelli: dietro di zero e seicentocinquanta."
+    },
+    {
+      "start_s": 4.4,
+      "text": "In rettilineo: 351 contro 340 km/h.",
+      "say": "In rettilineo: trecentocinquantuno contro trecentoquaranta."
+    },
+    {
+      "start_s": 7.4,
+      "text": "Al traguardo: ANT davanti di 0,258 s.",
+      "say": "Davanti di zero e duecentocinquantotto."
+    },
+    {
+      "start_s": 9.7,
+      "text": "Parte P6: penalità di 5 posizioni. Pole a VER.",
+      "say": "Parte sesto: cinque posizioni di penalità."
+    },
+    {
+      "start_s": 12.5,
+      "text": "Las Vegas 2023-2025: ogni anno podio da P10 o oltre.",
+      "say": "Ogni anno, podio da decimo o oltre."
+    },
+    {
+      "start_s": 15.7,
+      "text": "Da P6 può vincere? Segui per ogni gara in dati.",
+      "say": "Da sesto vince? Segui per ogni gara in dati."
+    }
+  ]
+}

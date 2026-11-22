@@ -1,0 +1,33 @@
+{
+  "post_key": "2026-r21-race-result",
+  "language": "it",
+  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/media/2026/2026-r21-race-result/reel.mp4",
+  "max_duration_s": 20,
+  "script": [
+    {
+      "start_s": 0.0,
+      "text": "Russell: da P3 a P9 in un giro.",
+      "say": "Russell: da terzo a nono in un giro."
+    },
+    {
+      "start_s": 3.8,
+      "text": "Giro 48: da 324 km/h a 0.",
+      "say": "Giro quarantotto: da trecentoventiquattro a zero."
+    },
+    {
+      "start_s": 7.7,
+      "text": "Sei auto lo passano: P9, 2 punti.",
+      "say": "Sei auto lo passano. Nono: due punti."
+    },
+    {
+      "start_s": 11.0,
+      "text": "Giro 49: Antonelli scende a P4.",
+      "say": "Giro quarantanove: Antonelli scende a quarto."
+    },
+    {
+      "start_s": 14.5,
+      "text": "Chi chiude terzo nel Mondiale? Segui per ogni gara in dati.",
+      "say": "Chi chiude terzo nel Mondiale? Segui per ogni gara in dati."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "post_key": "evergreen-2026-11-26",
+  "language": "it",
+  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/media/2026/evergreen-2026-11-26/reel.mp4",
+  "max_duration_s": 20.0,
+  "script": [
+    {
+      "start_s": 0.0,
+      "text": "Qatar 2025: Piastri resta fuori in safety car.",
+      "say": "Qatar 2025: Piastri resta fuori in safety car."
+    },
+    {
+      "start_s": 4.0,
+      "text": "Verstappen si ferma e non perde niente.",
+      "say": "Verstappen si ferma e non perde niente."
+    },
+    {
+      "start_s": 8.0,
+      "text": "Piastri paga due soste in verde, da 26 secondi.",
+      "say": "Piastri paga due soste in verde, da 26 secondi."
+    },
+    {
+      "start_s": 13.0,
+      "text": "Vince Verstappen. Domenica: 27 giri per set.",
+      "say": "Vince Verstappen. Domenica: 27 giri per set."
+    },
+    {
+      "start_s": 17.3,
+      "text": "Segui @f1dataroom.",
+      "say": "Segui f1dataroom."
+    }
+  ]
+}

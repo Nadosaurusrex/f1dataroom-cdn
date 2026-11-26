@@ -1,33 +1,33 @@
 {
-  "post_key": "2026-r21-race-result",
+  "post_key": "evergreen-2026-11-26",
   "language": "it",
-  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/media/2026/2026-r21-race-result/reel.mp4",
-  "max_duration_s": 20,
+  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/media/2026/evergreen-2026-11-26/reel.mp4",
+  "max_duration_s": 20.0,
   "script": [
     {
       "start_s": 0.0,
-      "text": "Russell: da P3 a P9 in un giro.",
-      "say": "Russell: da terzo a nono in un giro."
+      "text": "Qatar 2025: Piastri resta fuori in safety car.",
+      "say": "Qatar 2025: Piastri resta fuori in safety car."
     },
     {
-      "start_s": 3.8,
-      "text": "Giro 48: da 324 km/h a 0.",
-      "say": "Giro quarantotto: da trecentoventiquattro a zero."
+      "start_s": 4.0,
+      "text": "Verstappen si ferma e non perde niente.",
+      "say": "Verstappen si ferma e non perde niente."
     },
     {
-      "start_s": 7.7,
-      "text": "Sei auto lo passano: P9, 2 punti.",
-      "say": "Sei auto lo passano. Nono: due punti."
+      "start_s": 8.0,
+      "text": "Piastri paga due soste in verde, da 26 secondi.",
+      "say": "Piastri paga due soste in verde, da 26 secondi."
     },
     {
-      "start_s": 11.0,
-      "text": "Giro 49: Antonelli scende a P4.",
-      "say": "Giro quarantanove: Antonelli scende a quarto."
+      "start_s": 13.0,
+      "text": "Vince Verstappen. Domenica: 27 giri per set.",
+      "say": "Vince Verstappen. Domenica: 27 giri per set."
     },
     {
-      "start_s": 14.5,
-      "text": "Chi chiude terzo nel Mondiale? Segui per ogni gara in dati.",
-      "say": "Chi chiude terzo nel Mondiale? Segui per ogni gara in dati."
+      "start_s": 17.3,
+      "text": "Segui @f1dataroom.",
+      "say": "Segui f1dataroom."
     }
   ]
 }

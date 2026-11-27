@@ -1,33 +1,38 @@
 {
-  "post_key": "2026-r22-practice-1-preview",
+  "post_key": "2026-r22-practice-2-result",
   "language": "it",
-  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/media/2026/2026-r22-practice-1-preview/reel.mp4",
-  "max_duration_s": 20.0,
+  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/media/2026/2026-r22-practice-2-result/reel.mp4",
+  "max_duration_s": 20,
   "script": [
     {
       "start_s": 0.0,
-      "text": "Hamilton e Norris: 4 gare su 4, chi parte davanti arriva davanti.",
-      "say": "Hamilton e Norris: quattro gare su quattro, chi parte davanti arriva davanti."
+      "text": "Antonelli: 0,8 s al giro su Verstappen.",
+      "say": "Antonelli, otto decimi su Verstappen."
+    },
+    {
+      "start_s": 3.0,
+      "text": "Passo gara FP2, gomma media, giri puliti.",
+      "say": "Gomma media, giri puliti."
     },
     {
       "start_s": 5.6,
-      "text": "Hamilton perde il sabato: fuori in Q2 due volte.",
-      "say": "Hamilton perde il sabato: fuori in Q2 due volte."
+      "text": "Allo stesso giro del run: 0,79 s.",
+      "say": "Allo stesso giro del run, regge."
     },
     {
-      "start_s": 9.8,
-      "text": "In gara è più veloce di Norris 2 volte su 3.",
-      "say": "In gara è più veloce di Norris due volte su tre."
+      "start_s": 9.0,
+      "text": "Su 19 giri: VER a 15,1 s. Previsione.",
+      "say": "Su uno stint, Verstappen perderebbe quindici secondi."
     },
     {
-      "start_s": 14.8,
-      "text": "Previsione: così Norris chiude terzo.",
-      "say": "Previsione: così Norris chiude terzo."
+      "start_s": 12.4,
+      "text": "Un pit stop costa 25,7 s.",
+      "say": "Oltre mezzo pit stop. Chi vince domenica?"
     },
     {
-      "start_s": 17.3,
-      "text": "Segui @f1dataroom.",
-      "say": "Segui f1dataroom."
+      "start_s": 16.0,
+      "text": "Segui @f1dataroom per ogni sessione.",
+      "say": "Segui effe uno dataroom."
     }
   ]
 }

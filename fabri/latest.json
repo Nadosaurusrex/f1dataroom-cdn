@@ -1,28 +1,28 @@
 {
-  "post_key": "evergreen-2026-11-26",
+  "post_key": "2026-r22-practice-1-preview",
   "language": "it",
-  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/media/2026/evergreen-2026-11-26/reel.mp4",
+  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/media/2026/2026-r22-practice-1-preview/reel.mp4",
   "max_duration_s": 20.0,
   "script": [
     {
       "start_s": 0.0,
-      "text": "Qatar 2025: Piastri resta fuori in safety car.",
-      "say": "Qatar 2025: Piastri resta fuori in safety car."
+      "text": "Hamilton e Norris: 4 gare su 4, chi parte davanti arriva davanti.",
+      "say": "Hamilton e Norris: quattro gare su quattro, chi parte davanti arriva davanti."
     },
     {
-      "start_s": 4.0,
-      "text": "Verstappen si ferma e non perde niente.",
-      "say": "Verstappen si ferma e non perde niente."
+      "start_s": 5.6,
+      "text": "Hamilton perde il sabato: fuori in Q2 due volte.",
+      "say": "Hamilton perde il sabato: fuori in Q2 due volte."
     },
     {
-      "start_s": 8.0,
-      "text": "Piastri paga due soste in verde, da 26 secondi.",
-      "say": "Piastri paga due soste in verde, da 26 secondi."
+      "start_s": 9.8,
+      "text": "In gara è più veloce di Norris 2 volte su 3.",
+      "say": "In gara è più veloce di Norris due volte su tre."
     },
     {
-      "start_s": 13.0,
-      "text": "Vince Verstappen. Domenica: 27 giri per set.",
-      "say": "Vince Verstappen. Domenica: 27 giri per set."
+      "start_s": 14.8,
+      "text": "Previsione: così Norris chiude terzo.",
+      "say": "Previsione: così Norris chiude terzo."
     },
     {
       "start_s": 17.3,

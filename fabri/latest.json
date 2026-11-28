@@ -1,36 +1,36 @@
 {
-  "post_key": "2026-r22-practice-2-result",
+  "post_key": "2026-r22-practice-3-preview",
   "language": "it",
-  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/media/2026/2026-r22-practice-2-result/reel.mp4",
+  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/media/2026/2026-r22-practice-3-preview/reel.mp4",
   "max_duration_s": 20,
   "script": [
     {
       "start_s": 0.0,
-      "text": "Antonelli: 0,8 s al giro su Verstappen.",
-      "say": "Antonelli, otto decimi su Verstappen."
+      "text": "Russell: 0,59 s su Norris in due settori.",
+      "say": "Russell, sei decimi su Norris."
     },
     {
       "start_s": 3.0,
-      "text": "Passo gara FP2, gomma media, giri puliti.",
-      "say": "Gomma media, giri puliti."
+      "text": "Poi la bandiera rossa. Anche per Antonelli.",
+      "say": "Poi la bandiera rossa. Anche per Antonelli."
     },
     {
-      "start_s": 5.6,
-      "text": "Allo stesso giro del run: 0,79 s.",
-      "say": "Allo stesso giro del run, regge."
+      "start_s": 6.4,
+      "text": "Settore 1: 0,421 s.",
+      "say": "Quattro decimi già nel primo settore."
     },
     {
-      "start_s": 9.0,
-      "text": "Su 19 giri: VER a 15,1 s. Previsione.",
-      "say": "Su uno stint, Verstappen perderebbe quindici secondi."
+      "start_s": 9.5,
+      "text": "FP1, giro completo in soft: Mercedes 1-2.",
+      "say": "In FP1, giro completo in soft: Mercedes uno-due."
     },
     {
-      "start_s": 12.4,
-      "text": "Un pit stop costa 25,7 s.",
-      "say": "Oltre mezzo pit stop. Chi vince domenica?"
+      "start_s": 13.4,
+      "text": "Previsione: pole Mercedes. Ferrari oltre un secondo.",
+      "say": "Previsione: pole Mercedes. Ferrari oltre un secondo."
     },
     {
-      "start_s": 16.0,
+      "start_s": 16.8,
       "text": "Segui @f1dataroom per ogni sessione.",
       "say": "Segui effe uno dataroom."
     }

@@ -1,0 +1,38 @@
+{
+  "post_key": "2026-r22-practice-3-preview",
+  "language": "it",
+  "chart_video_url": "https://nadosaurusrex.github.io/f1dataroom-cdn/media/2026/2026-r22-practice-3-preview/reel.mp4",
+  "max_duration_s": 20,
+  "script": [
+    {
+      "start_s": 0.0,
+      "text": "Russell: 0,59 s su Norris in due settori.",
+      "say": "Russell, sei decimi su Norris."
+    },
+    {
+      "start_s": 3.0,
+      "text": "Poi la bandiera rossa. Anche per Antonelli.",
+      "say": "Poi la bandiera rossa. Anche per Antonelli."
+    },
+    {
+      "start_s": 6.4,
+      "text": "Settore 1: 0,421 s.",
+      "say": "Quattro decimi già nel primo settore."
+    },
+    {
+      "start_s": 9.5,
+      "text": "FP1, giro completo in soft: Mercedes 1-2.",
+      "say": "In FP1, giro completo in soft: Mercedes uno-due."
+    },
+    {
+      "start_s": 13.4,
+      "text": "Previsione: pole Mercedes. Ferrari oltre un secondo.",
+      "say": "Previsione: pole Mercedes. Ferrari oltre un secondo."
+    },
+    {
+      "start_s": 16.8,
+      "text": "Segui @f1dataroom per ogni sessione.",
+      "say": "Segui effe uno dataroom."
+    }
+  ]
+}
